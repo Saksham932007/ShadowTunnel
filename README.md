@@ -1,8 +1,8 @@
-# J-VPN: A Simple Layer 2 VPN in Java
+# ShadowTunnel: A Simple Layer 2 VPN in Java
 
 Introduction
 
-J-VPN is a Layer 2 Virtual Private Network (VPN) implemented in Java. It simulates a virtual Ethernet switch, allowing multiple clients to connect to a central server and communicate as if they were on the same local network.
+ShadowTunnel is a Layer 2 Virtual Private Network (VPN) implemented in Java. It simulates a virtual Ethernet switch, allowing multiple clients to connect to a central server and communicate as if they were on the same local network.
 
 This project is a modernized, Java-based version of a simple L2 VPN, originally written in C and Python. The core concepts remain the same, but the implementation has been updated for better scalability, maintainability, and ease of use.
 Architecture
